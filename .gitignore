@@ -1,0 +1,9 @@
+build/
+.idea
+node_modules
+data/
+.vscode/
+.next/
+yarn.lock
+.env.local
+.env
